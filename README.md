@@ -1,4 +1,10 @@
-### Hi there 👋
+### 嘿，看这！
+
+你好，我是任宝硕，一名来自中国的开发者。你可以通过左侧列出的邮箱，或者 Telegram [@baoshuo](https://t.me/baoshuo) 联系我。
+
+### Hey, there! 
+
+Hello, I'm Ren Baoshuo, a developer from China. You can contact me via the email listed on the left or Telegram [@baoshuo](https://t.me/baoshuo).
 
 <!--
 **renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
