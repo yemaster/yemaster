@@ -2,6 +2,8 @@
 
 你好，我是任宝硕，一名来自中国的开发者。你可以通过左侧列出的邮箱，或者 Telegram [@baoshuo](https://t.me/baoshuo) 联系我。
 
+我的个人博客： [baoshuo.ren](https://baoshuo.ren/)
+
 ### Hey, there! 
 
 Hello, I'm Ren Baoshuo, a developer from China. You can contact me via the email listed on the left or Telegram [@baoshuo](https://t.me/baoshuo).
