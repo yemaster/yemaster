@@ -4,6 +4,8 @@ I'm Ren Baoshuo, a student from China.
 
 You can read my blog post on [baoshuo.blog](https://baoshuo.blog).
 
+[Click Here](https://gitee.com/renbaoshuo) to see my Gitee profile. The codes on Gitee is synchronized from Github.
+
 <!--
 **renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
