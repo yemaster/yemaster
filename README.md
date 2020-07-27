@@ -1,8 +1,9 @@
-### About me
+<h3 align="center">👋 Hello! I'm Baoshuo.</h3>
 
-I'm Ren Baoshuo, a student from China.
-
-You can read my blog post on [baoshuo.blog](https://baoshuo.blog).
+<p align="center">
+  <a href="https://baoshuo.blog">Blog</a> •
+  <a href="https://twitter.com/renbaoshuo">Twitter</a>
+</p>
 
 [Click Here](https://gitee.com/renbaoshuo) to see my Gitee profile. The codes on Gitee is synchronized from Github.
 
