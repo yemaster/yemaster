@@ -3,10 +3,11 @@
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
   <a href="https://twitter.com/renbaoshuo">Twitter</a> •
+  <a href="https://github.com/renbaoshuo">GitHub</a> •
   <a href="https://gitee.com/renbaoshuo">Gitee</a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default">
+<a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default"></a>
 </p>
 
 ### Blog posts
