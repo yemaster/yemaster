@@ -2,11 +2,16 @@
 
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
-  <a href="https://gitee.com/renbaoshuo">Gitee</a> •
-  <a href="https://twitter.com/renbaoshuo">Twitter</a>
+  <a href="https://twitter.com/renbaoshuo">Twitter</a> •
+  <a href="https://gitee.com/renbaoshuo">Gitee</a>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default">
+</p>
+
+<p align="center">
+  <!--START_SECTION:posts-->
+  <!--END_SECTION:posts-->
 </p>
 
 <!--
