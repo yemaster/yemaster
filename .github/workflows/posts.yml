@@ -14,4 +14,4 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://baoshuo.blog/atom.xml
-          readme-section: feed
+          readme-section: posts
