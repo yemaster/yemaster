@@ -11,8 +11,8 @@
 
 ### Blog posts
 
-<!--START_SECTION:posts-->
-<!--END_SECTION:posts-->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 
 <!--
