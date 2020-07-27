@@ -9,10 +9,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default">
 </p>
 
-<p align="center">
-  <!--START_SECTION:posts-->
-  <!--END_SECTION:posts-->
-</p>
+### Blog posts
+
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
+
 
 <!--
 **renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
