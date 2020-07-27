@@ -2,10 +2,12 @@
 
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
+  <a href="https://gitee.com/renbaoshuo">Gitee</a> •
   <a href="https://twitter.com/renbaoshuo">Twitter</a>
 </p>
-
-[Click Here](https://gitee.com/renbaoshuo) to see my Gitee profile. The codes on Gitee is synchronized from Github.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default">
+</p>
 
 <!--
 **renbaoshuo/renbaoshuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
