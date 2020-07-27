@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
   <a href="https://twitter.com/renbaoshuo">Twitter</a> •
-  <a href="https://github.com/renbaoshuo">GitHub</a> •
+<!--   <a href="https://github.com/renbaoshuo">GitHub</a> • -->
+  GitHub • 
   <a href="https://gitee.com/renbaoshuo">Gitee</a>
 </p>
 <p align="center">
