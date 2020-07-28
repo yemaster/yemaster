@@ -1,0 +1,4 @@
+*.woff
+*.woff2
+assets/lib/*
+assets/images/*

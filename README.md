@@ -8,7 +8,7 @@
   <a href="https://gitee.com/renbaoshuo">Gitee</a>
 </p>
 <p align="center">
-<a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=default"></a>
+<a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=vue"></a>
 </p>
 
 ### Blog posts
