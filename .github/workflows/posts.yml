@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Update blog posts to README
 
 on:
   schedule:
