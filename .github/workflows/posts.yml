@@ -2,8 +2,7 @@ name: Update blog posts to README
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: '0 */2 * * *'
   watch:
     types: [started]
 
