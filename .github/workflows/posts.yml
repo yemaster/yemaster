@@ -2,7 +2,7 @@ name: Update blog posts to README
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/30 * * * *'
   watch:
     types: [started]
 

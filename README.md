@@ -13,6 +13,8 @@
 
 ### Blog Posts
 
+Only the latest 5 articles are displayed here.
+
 <!--START_SECTION:posts-->
 * [Sakura Frp 使用常见问题](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;8tYaUDF47&#x2F;)
 * [修改 Git 配置加速 clone GitHub 源码](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;5vwyjylHh&#x2F;)
@@ -21,5 +23,4 @@
 * [什么是 DDoS？如何使用 DDoS 提升群友网站速度？](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ObCitOBoi&#x2F;)
 <!--END_SECTION:posts-->
 
-**More on [baoshuo.blog](https://baoshuo.blog)**
-
+**See more on [baoshuo.blog](https://baoshuo.blog).**

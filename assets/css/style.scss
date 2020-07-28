@@ -1,18 +1,9 @@
-// 自定义代码
+// 自定义变量
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-    color: #2f80ed !important;
-}
+$section-headings-color: #2f80ed;
 
 // 引入站点主题
 @import "{{ site.theme }}";
 
-// 自定义代码
-
-
+// 自定义 CSS
 
