@@ -3,15 +3,16 @@
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
   <a href="https://twitter.com/renbaoshuo">Twitter</a> •
-<!--   <a href="https://github.com/renbaoshuo">GitHub</a> • -->
-  GitHub • 
+  <a href="https://github.com/renbaoshuo">GitHub</a> •
   <a href="https://gitee.com/renbaoshuo">Gitee</a>
 </p>
-<p align="center">
-  <a href="https://github.com/renbaoshuo"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&theme=vue"></a>
-</p>
 
-### Blog posts
+### Github Stats
+
+[![Baoshuo's Github Stats](https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default)](https://github.com/renbaoshuo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renbaoshuo&layout=compact&count_private=true&theme=default)](https://github.com/renbaoshuo)
+
+### Blog Posts
 
 <!--START_SECTION:posts-->
 * [Sakura Frp 使用常见问题](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;8tYaUDF47&#x2F;)
@@ -21,5 +22,5 @@
 * [什么是 DDoS？如何使用 DDoS 提升群友网站速度？](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ObCitOBoi&#x2F;)
 <!--END_SECTION:posts-->
 
-**[Read more on Baoshuo's Blog](https://baoshuo.blog)**
+**More on [baoshuo.blog](https://baoshuo.blog)**
 
