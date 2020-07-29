@@ -4,7 +4,8 @@
   <a href="https://baoshuo.blog">Blog</a> •
   <a href="https://twitter.com/renbaoshuo">Twitter</a> •
   <a href="https://github.com/renbaoshuo">GitHub</a> •
-  <a href="https://gitee.com/renbaoshuo">Gitee</a>
+  <a href="https://gitee.com/renbaoshuo">Gitee</a> •
+  <a href="https://t.me/baoshuo">Telegram</a>
 </p>
 
 ### Github Stats
@@ -13,7 +14,7 @@
 
 ### Blog Posts
 
-Only the latest 5 articles are displayed here.
+Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
 * [Sakura Frp 使用常见问题](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;8tYaUDF47&#x2F;)
