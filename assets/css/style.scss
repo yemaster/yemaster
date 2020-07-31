@@ -1,22 +1,45 @@
 ---
 ---
 
+// ↑ 让 Jekyll 强制使用此文件作为 css 源文件
+
+// 指定编码
 @charset "utf-8";
 
-// 自定义变量
-
+// --------------------
+//      自定义变量
+// --------------------
 $section-headings-color: #2f80ed;
 
-// 引入站点主题
+// --------------------
+//     引入站点主题
+// --------------------
 @import "{{ site.theme }}";
 
-// 自定义 CSS
+// --------------------
+//      自定义 CSS
+// --------------------
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-  color: #2f80ed !important;
+// 友情链接
+.site-footer-friends {
+    color: #819198;
+    font-size: 80%;
+
+    a {
+        text-decoration: none;
+        color: #1e6bb8;
+    }
+}
+
+// 侧边栏滚动条
+::-webkit-scrollbar {
+    width: 8px;
+    height: 6px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: #cbcbcb;
+}
+::-webkit-scrollbar-track-piece {
+    background: #eee;
 }
