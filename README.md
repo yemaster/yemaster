@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Baoshuo.</h3>
+<h3 align="center">👋 Hello! I'm Ren Baoshuo.</h3>
 
 <p align="center">
   <a href="https://baoshuo.blog">Blog</a> •
