@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 lang: zh-CN
 
-
-title: 宝硕小站
-description: Baoshuo's small site
+title: Baoshuo's Site
+# title: 宝硕小站
+# description: Baoshuo's small site
 
 show_downloads: false
 
@@ -11,3 +11,19 @@ google_analytics: UA-163290903-7
 
 github: 
   is_project_page: false
+
+links: 
+  - 0:
+    name: LiCEO
+    link: https://lsc.moe/
+  - 1: 
+    name: Berd's Playground
+    link: https://blog.berd.moe/
+
+menus: 
+  - 0: 
+    name: Home
+    link: /
+  - 1: 
+    name: About
+    link: /about/
