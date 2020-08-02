@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 lang: en_US
 
 title: Baoshuo's Site
-description: Baoshuo's Site
+# description: Baoshuo's Site
 Author: Ren Baoshuo
 image: 
   path: /assets/images/Avatar.png
