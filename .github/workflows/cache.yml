@@ -1,6 +1,6 @@
 name: Cloudflare Purge Cache
 
-on: [deployment, push, pull_request]
+on: [page_build, push, pull_request]
 
 
 jobs:
