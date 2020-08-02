@@ -11,6 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Wait for Deploy
+      run: |
+        sleep 60
     - name: Cloudflare Purge Cache
       run: |
         curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
