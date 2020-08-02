@@ -1,11 +1,6 @@
 name: Cloudflare Purge Cache
 
-on:
-  deployment_status: [ active ]
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on: [deployment, push, pull_request]
 
 
 jobs:
