@@ -1,9 +1,13 @@
 theme: jekyll-theme-cayman
-lang: zh-CN
+lang: en_US
 
 title: Baoshuo's Site
-# title: 宝硕小站
-# description: Baoshuo's small site
+description: Baoshuo's Site
+Author: Ren Baoshuo
+image: 
+  path: /assets/images/Avatar.png
+  height: 200
+  width: 200
 
 show_downloads: false
 
@@ -30,3 +34,22 @@ menus:
   - 2: 
     name: Others
     link: https://renbaoshuo.github.io
+
+twitter:
+  card: summary
+  username: renbaoshuo
+
+# facebook:
+#   admins: 
+
+webmaster_verifications:
+  google: QPAs-WvnzBF_40NLGcMWRcWGLpEvskzSbo1oYv4P2uU
+
+social:
+  name: Ren Baoshuo
+  links:
+    - https://twitter.com/renbaoshuo
+    - https://www.facebook.com/renbaoshuo
+    - https://www.linkedin.com/in/renbaoshuo
+    - https://github.com/renbaoshuo
+    - https://t.me/baoshuo
