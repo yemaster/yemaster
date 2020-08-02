@@ -27,3 +27,6 @@ menus:
   - 1: 
     name: About
     link: /about.html
+  - 2: 
+    name: Others
+    link: https://renbaoshuo.github.io
