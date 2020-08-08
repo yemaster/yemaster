@@ -55,8 +55,8 @@
 					<table cellpadding="5">
 						<tr style="border-bottom:1px black solid;">
 							<th>URL</th>
-							<th>Priority</th>
-							<th>Change Frequency</th>
+							<!-- <th>Priority</th>
+							<th>Change Frequency</th> -->
 							<th>LastChange</th>
 						</tr>
 						<xsl:variable name="lower" select="'abcdefghijklmnopqrstuvwxyz'"/>
@@ -77,12 +77,12 @@
 									<xsl:value-of select="sitemap:loc"/>
 								</a>
 							</td>
-							<td>
+							<!-- <td>
 								<xsl:value-of select="concat(sitemap:priority*100,'%')"/>
-							</td>
-							<td>
+							</td> -->
+							<!-- <td>
 								<xsl:value-of select="concat(translate(substring(sitemap:changefreq, 1, 1),concat($lower, $upper),concat($upper, $lower)),substring(sitemap:changefreq, 2))"/>
-							</td>
+							</td> -->
 							<td>
 								<xsl:value-of select="concat(substring(sitemap:lastmod,0,11),concat(' ', substring(sitemap:lastmod,12,5)))"/>
 							</td>
@@ -91,7 +91,7 @@
 					</table>
 				</div>
 				<div id="footer">
-					<a href="https://www.baoshuo.ren/" target="_blank">宝硕博客</a>
+					<a href="https://baoshuo.ren/" target="_blank">Baoshuo's Site</a>
 				</div>
 			</body>
 		</html>
