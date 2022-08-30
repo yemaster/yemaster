@@ -1,4 +1,4 @@
-<h3 align="center">👉 This is yemaster 👈</h3>
+<h2 align="center">yemaster</h2>
 
 <p align="center">
   <a href="http://wpa.qq.com/msgrd?v=3&uin=1440169768&site=qq&menu=yes">QQ</a> /
@@ -12,5 +12,5 @@
 
 ### I can
 
-- Web全栈工程师
-- Pyqt windows开发
+- Web 前端vue，后端js、python、php
+- Python（可以写PyQT)
